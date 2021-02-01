@@ -19,7 +19,7 @@ function draw(){
 }
 
 function take_snapshot(){
-    save('myfilterimage.png');
+    save('red-nose.png');
 }
 function gotPose(results){
     if(results.lenth > 0){
